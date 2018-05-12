@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31945
 description: 'English translation of: Der Alte vom Berge, Der Liebeszauber, and Pietro
   von Abano, oder, Petrus Apone.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26360#The-Old-Man-of-the-Mountain-The-Lovecharm-and-Pietro-of-AbanoTales-from-the-German-of-Tieck
 gutenberg_issued: '2008-08-19'
 gutenberg_type: Text
 identifiers:
